@@ -1,6 +1,6 @@
 # Welcome!
 ## My name is Adam Orsos
-<img align="right" src="https://orsos.dev/undraw_coding.svg" alt="coding boi" width="200px"/>
+<img align="right" src="https://orsos.dev/undraw_coding.svg" alt="coding boy by undraw" width="200px"/>
 I am a front-end developer specializing in single page applications and enterprise solutions with <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue.js</a>.
 Check out my <a href="https://www.linkedin.com/in/adamorsos/" target="_blank" rel="noopener">LinkedIn</a> profile, if you want to know about my work.
 My side projects are available at here <a href="https://github.com/OrsosAdam" target="_blank" rel="noopener">GitHub</a>, with less than desired content.
